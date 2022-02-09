@@ -9,4 +9,4 @@ print(f"this is the sum:{add(first,sec)}")
 def toyou(x):
     return f"hi {x}"
     
-print(toyou(10))
+print(toyouo(10))
